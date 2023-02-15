@@ -1,10 +1,10 @@
 # rust_rest_test
 
-Tests written in Rust using a Rust HTTP clinet to call Speculos Ledger Emulator.
+Tests written in Rust using the Rust HTTP client ureq to call Speculos Ledger Emulator.
 
-Testing supported Tezos operations
+Testing supported Tezos operations.
 
-to run tests:
+To run tests:
 
 ```
 cargo +nightly test tests
